@@ -1,0 +1,6 @@
+= Oxide Rancher UI Extensions
+
+This repository contains the Oxide https://extensions.rancher.io/[Rancher UI extensions].
+These extensions are used to customize how Oxide resources
+(e.g., https://github.com/oxidecomputer/rancher-machine-driver-oxide[Oxide Rancher Node Driver])
+appear in the Rancher UI.
