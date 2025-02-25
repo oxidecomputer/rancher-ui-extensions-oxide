@@ -1,0 +1,6 @@
+---
+cluster:
+  provider:
+    # This changes the node driver display name in the "Cluster: Create" screen.
+    # This is not documented and might be changed in the future.
+    oxide: Oxide
