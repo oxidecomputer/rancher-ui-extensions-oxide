@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  node-driver:
+  - annotations:
+      catalog.cattle.io/certified: rancher
+      catalog.cattle.io/display-name: Oxide UI Extension - Node Driver
+      catalog.cattle.io/namespace: cattle-ui-plugin-system
+      catalog.cattle.io/os: linux
+      catalog.cattle.io/permits-os: linux, windows
+      catalog.cattle.io/rancher-version: '>= 2.10.0'
+      catalog.cattle.io/scope: management
+      catalog.cattle.io/ui-component: plugins
+      catalog.cattle.io/ui-extensions-version: '>= 3.0.0 < 4.0.0'
+    apiVersion: v2
+    appVersion: 0.1.0
+    created: "2025-03-04T17:38:30.453440621Z"
+    description: Oxide Rancher UI extension for the Oxide Rancher node driver.
+    digest: dae2d466a315f2004a8b5895a8cdb5f4de3626c7abb0b7bc668819f2dcb25751
+    icon: https://oxide.computer/img/press/wordmark-black.svg
+    name: node-driver
+    type: application
+    urls:
+    - assets/node-driver/node-driver-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-03-04T17:38:30.452874303Z"
