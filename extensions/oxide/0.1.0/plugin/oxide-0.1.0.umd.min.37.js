@@ -1,0 +1,2 @@
+(("undefined"!==typeof self?self:this)["webpackChunkoxide_0_1_0"]=("undefined"!==typeof self?self:this)["webpackChunkoxide_0_1_0"]||[]).push([[37],{37:function(e){const i=[{cluster:{provider:{oxide:"Oxide"}}}];e.exports=i.length<=1?i[0]:i}}]);
+//# sourceMappingURL=oxide-0.1.0.umd.min.37.js.map

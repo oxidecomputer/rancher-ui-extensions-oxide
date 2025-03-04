@@ -1,1 +1,6 @@
+plugin/img/oxide.568b0f4d.svg
+plugin/oxide-0.1.0.umd.min.37.js
+plugin/oxide-0.1.0.umd.min.37.js.map
+plugin/oxide-0.1.0.umd.min.js
+plugin/oxide-0.1.0.umd.min.js.map
 plugin/package.json

@@ -35,13 +35,13 @@ entries:
       catalog.cattle.io/ui-extensions-version: '>= 3.0.0 < 4.0.0'
     apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-03-04T18:33:16.170463313Z"
+    created: "2025-03-04T19:05:45.581853987Z"
     description: Oxide Rancher UI extension for the Oxide Rancher node driver.
-    digest: cf18ef83841799fc08846cc5084706f2aaf20f74587441314cc628e67f7979eb
+    digest: c149d63ae0fe4d3ea4ee75c8b06c51615cf36206262dd15f8a5016d0892cf38c
     icon: https://oxide.computer/img/press/wordmark-black.svg
     name: oxide
     type: application
     urls:
     - assets/oxide/oxide-0.1.0.tgz
     version: 0.1.0
-generated: "2025-03-04T18:33:16.169354316Z"
+generated: "2025-03-04T19:05:45.581313605Z"
