@@ -1,5 +1,5 @@
 {
-  "name": "rancher-ui-extensions-oxide",
+  "name": "oxide",
   "description": "Oxide Rancher UI extensions.",
   "version": "0.1.0",
   "private": false,

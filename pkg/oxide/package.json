@@ -1,5 +1,5 @@
 {
-  "name": "node-driver",
+  "name": "oxide",
   "description": "Oxide Rancher UI extension for the Oxide Rancher node driver.",
   "version": "0.1.0",
   "icon": "https://oxide.computer/img/press/wordmark-black.svg",
