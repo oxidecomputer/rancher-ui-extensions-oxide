@@ -1,6 +1,12 @@
 ---
 cluster:
   provider:
-    # This changes the node driver display name in the "Cluster: Create" screen.
-    # This is not documented and might be changed in the future.
     oxide: Oxide
+  cloudCredential:
+    oxide:
+      host:
+        label: Host
+        placeholder: "Oxide API host (e.g., https://oxide.sys.example.com)"
+      token:
+        label: API Token
+        placeholder: "Oxide API token"
