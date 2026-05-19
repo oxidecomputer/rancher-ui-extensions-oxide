@@ -10,3 +10,30 @@ cluster:
       token:
         label: API Token
         placeholder: "Oxide API token"
+  machineConfig:
+    oxide:
+      project:
+        label: Project
+        placeholder: Project name or ID
+      bootDiskImageId:
+        label: Boot Disk Image ID
+        placeholder: Image ID for the boot disk
+      vcpus:
+        label: vCPUs
+      memory:
+        label: Memory
+        placeholder: "4 GiB"
+      bootDiskSize:
+        label: Boot Disk Size
+        placeholder: "20 GiB"
+      vpc:
+        label: VPC
+      subnet:
+        label: Subnet
+      ephemeralIpAttach:
+        label: Attach Ephemeral IP
+      ephemeralIpPool:
+        label: IP Pool
+        placeholder: IP pool name or ID (optional)
+      sshUser:
+        label: SSH User
